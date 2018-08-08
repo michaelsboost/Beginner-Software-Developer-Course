@@ -1,0 +1,10 @@
+li {
+  list-style-type: inherit;
+  text-align: left;
+  margin-bottom: 8px;
+  border-bottom: 1px dotted #bbb;
+}
+
+li a, a[download] {
+  text-decoration: underline;
+}
